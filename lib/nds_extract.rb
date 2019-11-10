@@ -14,5 +14,7 @@ def directors_totals(nds)
         
         movie_index += 1 
       end 
+      dir_index += 1 
+    end 
   result 
 end
