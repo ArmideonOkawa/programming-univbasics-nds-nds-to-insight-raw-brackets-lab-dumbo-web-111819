@@ -9,6 +9,6 @@ def directors_totals(nds)
       result[dir_name] = 0 
       movie_index = 0 
       
-      while 
+      while movie_index < 
   result 
 end
