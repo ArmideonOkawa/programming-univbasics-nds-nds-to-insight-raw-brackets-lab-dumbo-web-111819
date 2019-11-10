@@ -6,6 +6,7 @@ def directors_totals(nds)
   result = {}
     while dir_index < nds.length do 
       dir_name = nds[dir_index][:name]
-      result[dir_index]
+      result[dir_name] = 0 
+      
   result 
 end
